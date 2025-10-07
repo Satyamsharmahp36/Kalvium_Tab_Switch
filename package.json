@@ -1,0 +1,16 @@
+{
+  "name": "tab-switch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lucide-react": "^0.545.0",
+    "node-key-sender": "^1.0.11"
+  }
+}
