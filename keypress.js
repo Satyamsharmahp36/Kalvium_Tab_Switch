@@ -4,6 +4,7 @@ console.log('Starting script in 5 seconds...');
 
 setTimeout(() => {
   console.log('Sending ENTER key...');
+  // ks.sendKey('tab')
   
   ks.sendKey('enter');
 
